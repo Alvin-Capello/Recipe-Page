@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.emphasis {
+    color: red;
+}
+
+.ingredients {
+    list-style-type: none;
+    margin-bottom: 3%
+}
+
+.steps {
+    margin-bottom: 3%;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+
+
